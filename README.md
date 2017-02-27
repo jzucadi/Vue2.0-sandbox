@@ -1,2 +1,1 @@
-# VueSPA
-simple SPA with CRUD 
+Using vue 2.0 to demo crud
